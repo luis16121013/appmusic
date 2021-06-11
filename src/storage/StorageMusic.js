@@ -37,7 +37,22 @@
     {
       "id":7,
       "nombre":"carreteras mojadas",
-      "url":"https://github.com/luis16121013/music/blob/master/carreteras.mp3?raw=true"
+      "url":"https://github.com/luis16121013/music/blob/master/christian-meier/carreteras-mojadas.mp3?raw=true"
+    },
+    {
+      "id":8,
+      "nombre":"november rain",
+      "url":"https://github.com/luis16121013/music/blob/master/guns-roses/november-rain.mp3?raw=true"
+    },
+    {
+      "id":9,
+      "nombre":"sweet child",
+      "url":"https://github.com/luis16121013/music/blob/master/guns-roses/sweet-child.mp3?raw=true"
+    },
+    {
+      "id":10,
+      "nombre":"lloro pidiendo perdon",
+      "url":"https://github.com/luis16121013/music/blob/master/pepe-moreno/lloro-pidiendo-perdon.mp3?raw=true"
     },
   ]
 export default songs
