@@ -2,7 +2,7 @@
   "name": "svelte-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://luis16121013.github.io/appmusic/",
+  "homepage": "https://luispfcanales.github.io/appmusic/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d public",
